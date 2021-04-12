@@ -6,7 +6,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=farizaghayev&show_icons=true&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farizaghayev&hide=jupyter%20notebook,java" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farizaghayev" />
 </a>
 
 
